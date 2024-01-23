@@ -1,4 +1,4 @@
-#Exercise: Indexing snd slicing
+ -#Exercise: Indexing snd slicing
 
 url = "https://github.com/codedthinking/tender-home-bias/releases/download/v1.0/ted-sample.csv"
 
